@@ -6,7 +6,7 @@ Azure es una plataforma en la nube creada por Microsoft que ofrece una amplia ga
 
 ![Logo](https://ayudaleyprotecciondatos.es/wp-content/uploads/2020/10/cloud-computing-azure-00-1536x863.jpg)
 
-# Creación de API de servicio cognitivo/ Translator Text 👇.
+# Creación de API de servicio cognitivo/ Translator Text 👇
 
 #### Descripción del API en azure
 La API Translator Text de Azure permite realizar traducciones de texto de manera rápida y precisa entre múltiples idiomas. Proporcionaremos una descripción detallada de las funcionalidades y características de esta API.
