@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: AS221S5_T05_BE
+      uri: mongodb+srv://mongito4041:71889784xd@cluster0.clegrph.mongodb.net/AS221S5_T05_BE?retryWrites=true&w=majority&appName=Cluster0
+server:
+  port: 8080
