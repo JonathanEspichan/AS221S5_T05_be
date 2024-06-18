@@ -11,7 +11,7 @@ public class CorsConfig{
     @Bean
     public CorsWebFilter corsFilter() {
         CorsConfiguration config = new CorsConfiguration();
-        config.addAllowedOrigin("http://localhost:4200");
+        config.addAllowedOrigin("https://fantastic-dollop-76x9w44x94pcqvj-4200.app.github.dev");
         config.addAllowedMethod("*");
         config.addAllowedHeader("*");
         config.setAllowCredentials(true);
